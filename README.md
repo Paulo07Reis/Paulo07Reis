@@ -1,16 +1,23 @@
-## Hi there 👋
+# Paulo Reis 🚀
 
-<!--
-**Paulo07Reis/Paulo07Reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend`**
 
-Here are some ideas to get you started:
+Me chamo Paulo Reis de Marcena, tenho 21 anos e sou natural da cidade de São Paulo. Sou técnico em eletrônica pela ETEC Takashi Morita. Atualmente, estou cursando Ciência da Computação na São Paulo Tech School (6/8) e estagiando como engenheiro de software no C6 Bank.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+    <a href="https://www.linkedin.com/in/paulo-marcena-b4a26a258/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+</div>
+
+---
+
+### 🤖 Tecnologias e ferramentas
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,git)](https://skillicons.dev)
+
+
+### 📊 Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo07reis&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=250)
+[![GitHub Streak](https://streak-stats.demolab.com?user=paulo07reis&hide_border=true&theme=transparent)](https://git.io/streak-stats)
