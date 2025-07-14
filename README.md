@@ -15,7 +15,7 @@ Me chamo Paulo Reis de Marcena, tenho 21 anos e sou natural da cidade de São Pa
 ### 🤖 Tecnologias e ferramentas
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,mongodb,gradle,git)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo07reis&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=250)
 [![GitHub Streak](https://streak-stats.demolab.com?user=paulo07reis&hide_border=true&theme=transparent)](https://git.io/streak-stats)
